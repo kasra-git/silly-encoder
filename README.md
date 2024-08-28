@@ -1,28 +1,32 @@
 # 📦 super secure Silly encrypter-decrypter bash script.
 
-(add your badges here)
 
-> *Your documentation is a direct reflection of your software, so hold it to the same standards.*
+> *I implemented silly_encoder.sh in debian base linux distro*
 
 
 ## 🌟 Highlights
 
 - Easy to use!
-- step by step manual
-- with progress bar
-- use AES-128 for encryption.
-- can encrypt and dectypt eny file and directory you want.
-- it can also broke your filesystem if you are not careful. (can encrypt your entire file system then your OS won't boot anymore)
+- Just simple bash script
+- Step by step manual
+- With progress bar
+- Use AES-128 for encryption.
+- Can encrypt and decrypt any file and directory you want.
+- It can also broke your filesystem if you are not careful. (Don't use it to encrypt your entire file system then your OS won't boot anymore)
 
 
 ## ℹ️ Overview
 
-A paragraph explaining your work, who you are, and why you made it.
+simple password in your PC can't fully and strongly protect your important files.
+with silly_encoder.sh you can protect your Important file with NSA standard, encrypt your file with AES-128 algorithm.
+just download and run silly_encoder.sh then encrypt your  /home directory (or whatever directory you want), all file in subdirectory will be encrypting with ASE-128.
+
+you can also decrypt it againe.
 
 
 ### ✍️ Authors
 
-Mention who you are and link to your GitHub or organization's website.
+kasra nasiri
 
 
 ## 🚀 Usage
