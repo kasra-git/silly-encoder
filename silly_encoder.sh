@@ -239,7 +239,7 @@ main()
     echo -e "          |  \033[34m>> Directory Decoder/Encoder <<  \033[91m|  ";
     echo -e "          |  \033[33m   Bachelor's Final Project      \033[91m|  ";
     echo -e "          |  \033[35m      Author : Kasra Nasiri      \033[91m|  ";
-    echo -e "          |  \033[32m       semnan University        \033[91m|  ";
+    echo -e "          |  \033[32m       semnan University        \033[91m|   ";
     echo -e "          |  \033[36m           Summer 2024           \033[91m|  ";
     echo -e "          *-----------------------------------*";
     echo -e "\033[39m"  "\033[49m";
