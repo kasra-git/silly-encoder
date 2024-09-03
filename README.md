@@ -187,10 +187,10 @@ bahman@XubuntuMachine:~/Desktop$
 
 ## ⬇️ Installation 
 
-First download the silly_encoder.sh 
+First download the silly_encoder.sh with wget 
 
 ```bash
-pip install my-package
+wget https://github.com/kasra-git/silly-encoder/blob/main/silly_encoder.sh
 ```
 
 Then put it in /bin for excute evrywhre in yor system.
